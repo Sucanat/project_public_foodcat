@@ -1,0 +1,32 @@
+[
+  {
+    "name": "catty",
+    "rating": 4.1,
+    "price": 48.0
+  },
+  {
+    "name": "pettymilk",
+    "rating": 4.5,
+    "price": 42.0
+  },
+  {
+    "name": "pumkinandkarot",
+    "rating": 3.7,
+    "price": 34.0
+  },
+  {
+    "name": "tunaandsalmon",
+    "rating": 5.0,
+    "price": 89.0
+  },
+  {
+    "name": "shellfish",
+    "rating": 4.8,
+    "price": 39.0
+  },
+  {
+    "name": "vegetable",
+    "rating": 2.5,
+    "price": 15.5
+  }
+]

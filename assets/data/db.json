@@ -1,0 +1,95 @@
+{
+  "foodcat": [
+    {
+      "id": 1,
+      "name": "tuna",
+      "price": 48
+    },
+    {
+      "id": 2,
+      "name": "salmon",
+      "price": 60
+    },
+    {
+      "id": 3,
+      "name": "chicken",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "fish",
+      "price": 20
+    },
+    {
+      "id": 5,
+      "name": "shellfish",
+      "price": 35
+    },
+    {
+      "id": 6,
+      "name": "pumpkin",
+      "price": 15
+    },
+    {
+      "name": "kitty",
+      "price": 60,
+      "id": 7
+    },
+    {
+      "name": "cat",
+      "price": 50,
+      "id": 8
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "foodcatId": 1,
+      "userId": 1,
+      "review": "good",
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "foodcatId": 2,
+      "userId": 1,
+      "review": "yummy",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "foodcatId": 4,
+      "userId": 1,
+      "review": "my cat like it",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "foodcatId": 3,
+      "userId": 1,
+      "review": "available",
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "foodcatId": 5,
+      "userId": 1,
+      "review": "my cat dont like",
+      "rating": 1
+    },
+    {
+      "id": 6,
+      "foodcatId": 4,
+      "userId": 1,
+      "review": "fat cat",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "foodcatId": 1,
+      "userId": 1,
+      "review": "cat hair loss but mycat like it so good",
+      "rating": 3
+    }
+  ]
+}
